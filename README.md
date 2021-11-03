@@ -1,2 +1,2 @@
 # sonarQube
-this is for sonarrQube setup
+this is for sonarQube setup
